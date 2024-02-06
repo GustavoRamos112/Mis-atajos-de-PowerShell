@@ -2,11 +2,15 @@
 Son los comandos personalizados que uso en mi día a día, muchos muy útiles para compilar programas en C y C++ de manera más efectiva, un ejemplo, es que si estoy programando algo de cálculo numérico en c++, aplicaría:
 
 ````
-compp5 name
+compp5 nombre
 ````
 Esto hará que en portapapeles tenga "./namei" el cual solo pego y ejecuto, ahora, si quiero usar algunas banderas más, simplemente las meto a la misma línea de comandos:
 ````
-compp5 name -bandera1 -bandera2 ...
+compp5 nombre -bandera1 -bandera2 ...
+````
+En caso de querer ejecutar algo de python, solo ejecuto:
+````
+py nombre
 ````
 
 # Instalación
